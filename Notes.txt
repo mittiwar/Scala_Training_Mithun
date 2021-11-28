@@ -1,0 +1,18 @@
+Git cmds:
+git init
+
+git add .
+
+git commit -m "MSG"
+
+git remote add origin <URL>
+
+git branch -m main
+
+git checkout
+
+git checkout -b <name>
+
+git push -u origin <name>
+
+git branch -D <name>
